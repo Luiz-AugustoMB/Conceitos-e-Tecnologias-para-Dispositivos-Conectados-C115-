@@ -1,0 +1,13 @@
+# Ignora tudo na raiz por padrao
+/*
+
+# Excecoes: o que realmente vai para o repositorio
+!/.gitignore
+!/README.md
+!/projeto1/
+
+
+# Lixo do Python dentro de projeto1
+projeto1/**/__pycache__/
+projeto1/**/*.py[cod]
+projeto1/**/.pytest_cache/
