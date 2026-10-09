@@ -12,3 +12,4 @@ projeto1/**/__pycache__/
 projeto1/**/*.py[cod]
 projeto1/**/.pytest_cache/
 !/Trabalho 1 - Mininet.md
+!/prints/
